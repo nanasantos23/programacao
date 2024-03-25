@@ -1,15 +1,25 @@
 *{
   margin: 0;
-  padding: 0;
+  padding: 0
 }
 body{ 
-  background- pink 
+  background-color:
 } 
+#banner{
+  width:100%;
+}
 h1{ 
   text-align:center;
-p{
-  text-align: center;
 }
-em strong {
+ background: # CCCCCC
+}
+p{
+ text-align: center;
+ font-size:20px;
+}
+#missao{
+  font-size:30px;
+}
+em strong}
   color: blue;
 } 
