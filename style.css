@@ -8,10 +8,13 @@ body{
 #banner{
   width:100%;
 }
-h1{ 
-  text-align:center;
+.titulo-principal{
 }
  background: # CCCCCC
+padding-left:20px;
+}
+.titulo-segundario{
+  text-align:center
 }
 p{
  text-align: center;
