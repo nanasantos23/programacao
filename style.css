@@ -9,11 +9,10 @@ body{
   width:100%;
 }
 .titulo-principal{
-}
  background: # CCCCCC
 padding-left:20px;
 }
-.titulo-segundario{
+.titulo-segundario{ 
   text-align:center
 }
 p{
@@ -23,6 +22,7 @@ p{
 #missao{
   font-size:30px;
 }
-em strong}
+{
+em strong
   color: blue;
 } 
